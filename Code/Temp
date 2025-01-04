@@ -1,1 +1,7 @@
 This folder contains code for title generation
+model is the intial code and the updated version is in model2
+Technologies Used:
+Python (pandas, NumPy, string, json)
+TensorFlow/Keras for model building and training
+Natural Language Processing (NLP) techniques
+JSON for category mapping
