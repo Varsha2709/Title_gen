@@ -24,3 +24,15 @@ Generates contextually relevant text based on the trained model.
 User-Defined Inputs:
 
 Users can specify dataset paths, seed text, and the number of words for text generation.
+
+
+Applications:
+Automated title generation for video content.
+Text augmentation for creative writing.
+Enhancing user engagement with AI-generated suggestions.
+Output Example:
+The trained model generates a sequence of words based on input seed text, such as:
+
+Input: happy
+Output: "Happy moments and laughter with friends"
+This project demonstrates the practical use of deep learning models in text generation, providing a foundation for further exploration in natural language processing.
